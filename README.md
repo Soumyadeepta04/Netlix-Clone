@@ -6,20 +6,6 @@ A pixel-perfect clone of Netflix's landing page built with pure HTML and CSS. Th
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Getting Started](#getting-started)
-- [Screenshots](#screenshots)
-- [What I Learned](#what-i-learned)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## 🎯 Overview
 
 This project is a static front-end clone of Netflix's landing page, designed to practice and showcase HTML and CSS skills. It replicates the look and feel of Netflix's user interface, including the hero section, feature sections, and responsive layout that adapts to different screen sizes.
